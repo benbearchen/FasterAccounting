@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">欢迎使用快捷记账软件！</string>
+    <string name="app_name">快捷记账</string>
+    <string name="label_fundFrom">资金从</string>
+    <string name="label_flowTo">流转到</string>
+    <string name="label_money">金额</string>
+    <string name="label_saveAsQuickBook">保存为快速记账</string>
+    <string name="label_save">保存</string>
+
+</resources>
